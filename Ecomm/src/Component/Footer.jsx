@@ -10,7 +10,7 @@ function Footer() {
         <div className='max-w-screen-2xl container mx-auto lg:px-28 px-8'>
         <div className='mt-16 mb-14 flex flex-col  lg:flex-row items-center lg:items-start justify-between gap-8'>
             <div className='lg:w-[400px]'>
-            <a href="/"><img src="/public/logo.png" alt="" className='w-32' /></a>
+            <a href="/"><img src="/logo.png" alt="" className='w-32' /></a>
                     <p className='text-black/75 my-5'>Lorem ipsum, dolor sit amet consectetur adipisicing 
                         elit. Magnam quidem quas inventore dignissimos,
                          illum adipisci commodi! Porro fugit molestiae
